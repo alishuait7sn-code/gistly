@@ -1,12 +1,3 @@
-This is a great idea. By focusing the README on the **learning process** (the "How") rather than just the "System Architecture" goal, you make the project much more relatable and useful for any developer.
-
-Here is the updated, elaborate, and bilingual **README.md**.
-
------
-
-### 📝 Updated README.md (Bilingual Edition)
-
-````markdown
 # ⚡ Gistly | The Digital Lexicon 
 ### *Capture the Essence, Master the Language*
 

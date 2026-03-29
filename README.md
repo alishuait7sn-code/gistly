@@ -51,7 +51,7 @@ python main.py
 ## 🛠 Project Structure / هيكل المشروع
 
   - `main.py`: The engine that handles the logic and UI. / المحرك الأساسي للبرنامج.
-  - `vocabulary.json`: Your personal encrypted knowledge base. / قاعدة بياناتك الشخصية.
+  - `vocabularies.json`: Your personal encrypted knowledge base. / قاعدة بياناتك الشخصية.
   - `LICENSE`: Open-source MIT License. / رخصة البرنامج.
 
 -----

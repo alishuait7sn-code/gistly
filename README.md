@@ -17,5 +17,5 @@ Since Gistly follows a "Zero-Setup" philosophy, you can start building your lexi
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/alishuait7sn-code/gistly.git](https://github.com/alishuait7sn-code/gistly.git)
+git clone [gistly](https://github.com/alishuait7sn-code/gistly.git)
 cd gistly

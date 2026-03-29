@@ -63,5 +63,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](https://w
 -----
 
 *Built with ❤️ by **Ali Abdo Elrahman Hassan** for learners everywhere.*
-
-````
